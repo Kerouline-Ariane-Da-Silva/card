@@ -24,7 +24,7 @@ body{
 }
 
 .container .product{
-    background: #fafafa;
+    background: #682d2d;
     padding: 20px;
     text-align: center;
     border-radius: 15px;
@@ -55,25 +55,25 @@ body{
     height: 15px;
     margin: 0 15px;
     border-radius: 50%;
-    background: #DE522F;
+    background: #2fde78;
     cursor: pointer;
     position: relative;
 }
 
 .container .product .color .green{
-    background: #9ABE62;
+    background: #be6279;
 }
 
 .container .product .color .black{
-    background: #222627;
+    background: #222723;
 }
 
 .container .product .color .red{
-    background: #B41D26;
+    background: #8cb41d;
 }
 
 .container .product .color .orange{
-    background: #DE522F;
+    background: #4f2fde;
 }
 
 .container .product .color .active::after{
@@ -81,7 +81,7 @@ body{
     width: 17px;
     height: 17px;
     border-radius: 50%;
-    border: 2px solid #333;
+    border: 2px solid #333333;
     position: absolute;
     left: -3px;
     top: -3px;
@@ -102,14 +102,14 @@ body{
 }
 
 .container .product .detail p span{
-    color: #DE522F;
+    color: #2f75de;
 }
 
 .container .product .detail a{
     text-decoration: none;
-    background: #DE522F;
+    background: #de522f;
     padding: 8px 45px;
     border-radius: 8px;
-    color: white;
+    color: rgb(255, 255, 255);
     margin: 15px;
 }
